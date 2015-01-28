@@ -1,0 +1,11 @@
+# General
+target/
+.classpath
+.project
+.settings/
+.metadata/
+*.log
+.h2/
+
+/pom-backup.xml
+/pom.xml.bak
